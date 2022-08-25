@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "WELCOME TO MY GITHUB ACCOUNT"
 ---
 
-I'm glad you are here. I plan to talk about ...
+hi everyone to 🦋
